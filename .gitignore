@@ -1,0 +1,9 @@
+# sorry-heard entry: local-only artefacts, never committed
+__pycache__/
+*.py[cod]
+/output/
+entry.txt
+*.log
+.DS_Store
+# the unpacked make.fun kit is a build tool, not part of the entry
+u-kiencx-sorry-i-heard-that-wrong-1858c729-kit/
